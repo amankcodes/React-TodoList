@@ -20,4 +20,4 @@ replace the public and src folders with those in this repo.
 <h3>Results</h3>
 <img src="./result.png">
 
-... created by Aman Kr. [amankr1705@gmail.com]
+                  designed & developed by -- aman kr.
